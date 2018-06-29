@@ -124,7 +124,7 @@ background-color: #2d3334;
 	width: 80px;
 	height: 80px;
 	background-color: #f73b56;
-    top: 1685px;
+    /*top: 1685px;*/
 	left: 50%;
 	-moz-transform: rotate(45deg);
 	-o-transform: rotate(45deg);
@@ -140,7 +140,7 @@ position: absolute;
 z-index: 555;
 left: 50%;
 margin-left: -23px;
-
+margin-top: 15px;
 
 }
 .single_testimonial p{
